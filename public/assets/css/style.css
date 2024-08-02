@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to left, #3498DB, gray);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.enlaces{
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.tabla{
+    margin:10px;
+}
+
+.secondarycolor{
+    color: #00C7BE;
+}
